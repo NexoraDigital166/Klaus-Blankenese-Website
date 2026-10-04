@@ -1,0 +1,2 @@
+# Preserve supplied media byte-for-byte and avoid platform line-ending rewrites.
+* -text
